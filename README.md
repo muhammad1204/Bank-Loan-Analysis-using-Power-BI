@@ -1,6 +1,6 @@
 # Bank-Loan-Analysis-using-Power-BI
 
-Overview
+**Overview**
 The Bank Loan Report Dashboards provide a comprehensive analysis of our bank's lending activities, performance, and trends. These dashboards are designed to offer valuable insights into key loan-related metrics, helping stakeholders make data-driven decisions, track the health of the loan portfolio, and identify trends to inform lending strategies.
 
 Dashboards
